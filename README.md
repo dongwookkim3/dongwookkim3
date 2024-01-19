@@ -1,16 +1,12 @@
-### Hi there 👋
+### About Me
+<a href="https://iris-twist-264.notion.site/4bcee3d2019442308d332e9be3b0891c"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://www.instagram.com/d0ngwook7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://swbsnewby7.tistory.com/"><img src="https://img.shields.io/badge/Tistory-EB531F?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
-<!--
-**dongwookkim3/dongwookkim3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=dongwook7)](https://solved.ac/profile/dongwook7)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+<div aline=senter>
+  <img src="https://github-readme-stats.vercel.app/api?username=dongwookkim3&show_icons=true&theme=ambient_gradient">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongwookkim3&layout=compact" height=195>
+</div>
