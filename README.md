@@ -3,7 +3,7 @@
 <a href="https://www.instagram.com/d0ngwook7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://swbsnewby7.tistory.com/"><img src="https://img.shields.io/badge/Tistory-EB531F?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
-[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=dongwook7)](https://solved.ac/profile/dongwook7)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongwook7)](https://solved.ac/dongwook7/)
 
 ### GitHub Stats
 <div aline=senter>
