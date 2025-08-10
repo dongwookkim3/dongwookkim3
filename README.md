@@ -2,7 +2,6 @@
 
 
 ### About Me
-<a href="https://wirehaired-equipment-793.notion.site/0fe87acc374848c6a6334261cfa77bdc?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/d0ngwook7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://swbsnewby7.tistory.com/"><img src="https://img.shields.io/badge/Tistory-EB531F?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/dongwook7/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
